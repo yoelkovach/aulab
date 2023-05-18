@@ -1,0 +1,44 @@
+.navbar{
+    position: fixed;
+    background-color: #383232;
+    display: block;
+    width: 100%;
+}
+
+.flex {  
+    display: block;
+    width: 20px;
+    float: left;
+}
+.proba{
+    width: 86%;
+}
+
+
+li{
+  display: block;
+  width: 60px;
+  float: left;
+  padding: 8px 20px 8px 20px;
+  border-right: 1px solid #bbb;
+}
+
+.foto{
+    width: 100%;
+    max-width: 900%;
+    height: auto;
+    background-size: auto;
+}
+
+/* ----------------------------------------------------------------------------- */
+
+#wifi{
+    inset-inline: center;
+}
+.textoPizza1{
+    width: 60% ;
+    height: auto ;
+    float: left;
+} 
+
+
